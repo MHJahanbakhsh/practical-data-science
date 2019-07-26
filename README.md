@@ -1,4 +1,4 @@
-# my-tutorials
+# my practical tutorials
 
 for more information skip to the introduction.ipynb file!
 
